@@ -38,16 +38,39 @@ Durante el curso las estudiantes podrán .....
 
 ## Syllabus
 
-### Unidad 01: [Título](link)
+### Unidad 01: [Fundamentos del diseño visual](/Unidad-1/README.md)
 
-Bienvenida al curso, detalles del formato y logística de la Clase. Qué es Testing.
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | clase | - min | Historia breve de diseño visual para web 
+| 02 | clase | - min | Reglas básicas de diseño visual
+
+
+### Unidad 02: [Color y tipografía](/Unidad-2/README.md)
 
 
 | # | Tipo | Duración | Tópico
 | - | ---- | -------- | ------
-| 01 | clase | - min | título
-| 02 | clase | - min | título
-| 03 | discusión | - min | título
+| 01 | clase | - min | Color
+| 02 | clase | - min | Tipografía
+
+
+
+### Unidad 03: [Composición para web](/Unidad-3/README.md)
+
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | clase | - min | Layout
+| 02 | clase | - min | Diseño web responsivo 
+
+### Unidad 04: [Fundamentos de UI](/Unidad-4/README.md)
+
+
+| # | Tipo | Duración | Tópico
+| - | ---- | -------- | ------
+| 01 | clase | - min | Finalización proyectos finales
+| 02 | clase | - min | Presentación y sesión de feedback sobre proyectos finales 
 
 
 ## Evaluación 
