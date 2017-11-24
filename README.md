@@ -1,4 +1,4 @@
-# Título del curso
+# Visual Design Fundamentals
 
 
 Intro del curso: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
