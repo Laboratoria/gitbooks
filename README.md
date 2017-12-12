@@ -37,31 +37,33 @@ Podrás escoger diferentes variables como género y rango de edad para crear una
 | 02 | clase| Reglas básicas de diseño visual
 
 
-### Unidad 02: [Color y tipografía](/Unidad-2/README.md)
+### Unidad 02: [Color](/Unidad-2/README.md)
 
 
 | # | Tipo | Tópico
 | - | ---- | ------
 | 01 | clase | Color
+
+
+
+
+### Unidad 03: [Tipografías](/Unidad-3/README.md)
+
+
+| # | Tipo | Tópico
+| - | ---- | ------
 | 02 | clase | Tipografía
+ 
 
-
-
-### Unidad 03: [Composición para web](/Unidad-3/README.md)
+### Unidad 04: [Composición para web - Fundamentos de UI](/Unidad-4/README.md)
 
 
 | # | Tipo | Tópico
 | - | ---- | ------
 | 01 | clase | Layout
-| 02 | clase | Diseño web responsivo 
-
-### Unidad 04: [Fundamentos de UI](/Unidad-4/README.md)
-
-
-| # | Tipo | Tópico
-| - | ---- | ------
-| 01 | clase | Finalización proyectos finales
-| 02 | clase | Presentación y sesión de feedback sobre proyectos finales 
+| 02 | clase | Diseño web responsivo
+| 03 | clase | Finalización proyectos finales
+| 04 | clase | Presentación y sesión de feedback sobre proyectos finales 
 
 
 ## Evaluación 

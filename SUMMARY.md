@@ -7,12 +7,12 @@
    * [Ejercicio](/Unidad-1/02-ejercicio.md)
    * [Autoevaluación](/autoevaluacion.md)
 
-* [UNIDAD 2 - Color y tipografía](/Unidad-2/README.md)
+* [UNIDAD 2 - Color](/Unidad-2/README.md)
    * [Color](/Unidad-2/00-color.md)
    * [Ejercicio](/Unidad-2/01-ejercicio.md)
    * [Autoevaluación](/autoevaluacion.md)
 
-* [UNIDAD 3 - Composición para web](/Unidad-3/README.md)
+* [UNIDAD 3 -  Tipografía](/Unidad-3/README.md)
    * [Tipografía](/Unidad-3/03-tipografia.md)
    * [Ejercicio](/Unidad-3/04-ejercicio.md)
    * [Autoevaluación](/autoevaluacion.md)
