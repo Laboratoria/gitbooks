@@ -13,9 +13,11 @@
    * [Autoevaluación](/autoevaluacion.md)
 
 * [UNIDAD 3 -  Tipografía](/Unidad-3/README.md)
-   * [Tipografía](/Unidad-3/03-tipografia.md)
-   * [Ejercicio](/Unidad-3/04-ejercicio.md)
+   * [Tipografía](/Unidad-3/00-tipografia.md)
+   * [Ejercicio](/Unidad-3/01-ejercicio.md)
    * [Autoevaluación](/autoevaluacion.md)
 
 * [UNIDAD 4 - Fundamentos de UI](/Unidad-4/README.md)
+   * [Jerarquía y diseño responsivo](/Unidad-4/00-jerarquia-y-responsive.md)
+   * [Ejercicio](/Unidad-4/01-ejercicio.md)
    * [Autoevaluación](/autoevaluacion.md)

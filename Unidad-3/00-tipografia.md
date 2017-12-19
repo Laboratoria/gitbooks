@@ -107,5 +107,21 @@ _Atrae atención con formas inusuales:_ el anuncio abajo es interesante por vari
 
 ![](https://lh6.googleusercontent.com/mAVAeC9CfjVF_NakS_htq4rpMs0Xjks1FMue_wR_IAvXo-gXEbbGaApOP42AiBmee7GBOUIf2ao65iKxQxT3mwb340W7-EhEv92MBZIR6VwhCRhWl6AcVocm3pT7jMdaVmSpy2o_wwk)
 
-Choose Stand-Out Colors. This website design applies a vivid neon green color to its call-to-action (the “Download the App” button). Even though the button certainly isn’t the biggest object on the page, it’s the first thing that attracts your attention because of its color.
- 
+_Elige colores llamativos:_ Esta página usa un verde chillante para llamar la atención a su call-to-action (el botón para bajar el app). Aunque el botón no sea el elemento más grande, es lo primero que llama tu atención por su color. 
+
+![shyp](https://lh6.googleusercontent.com/pTQB568selK0vB9qK2mEMVDYHzaWUxUeBdYSiXvj23-nZMeQIfFjOp2afdXm7WF0StVB_hC8Nldd8JhnR-FrBYSVMu4c6WhdQGJEDpWShYYbanJfmPcs8QMqqqHsFQseyrVsscJGvZ4) 
+
+_Posicionar para maximizar impacto visual:_ Elegir la posición correcta para tu punto de enfoque va a asegurar que lleve la atención de tus usuarios a la información más importante. Tanto la esquina de arriba a la izquierda como el centro de la composición son elecciones comunes, pero el punto más efectivo dependerá de los requerimientos de cada proyecto. 
+
+![](https://lh4.googleusercontent.com/XtSUqaDPlpymMV4BmyYE7qV7WHptWy_v8OyTvfCtVOwSd7O6ZV0W1lweHgPSpovcddNLxMjXVY1ho_qiQYWg4LCkA7FMdsGiiLW0jx_6RzPa9isYQVGcT2WU5Itl8eeF6qVaHPvLS64)
+
+
+## Recursos Extra
+
+- Herramientas
+  - [Google Fonts](http://fonts.google.com/)
+  - [The Ultimate Collection of Google Font Pairings](https://www.reliablepsd.com/ultimate-google-font-pairings/)
+  - [2017 TRENDY GOOGLE FONTS COMBINATIONS](http://fonts.greatsimple.io/)
+- Lectura
+  - [Learn Font Design](https://www.canva.com/learn/font-design/)
+  - [20 Typography Mistakes Every Beginner Makes](https://www.canva.com/learn/typography-mistakes/)
